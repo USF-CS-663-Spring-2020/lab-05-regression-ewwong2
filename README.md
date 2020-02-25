@@ -1,4 +1,4 @@
-# readme.md
+# Regression
 
-**Name**:  
-**USF email address**:  
+**Name**: Edmund Wong  
+**USF email address**: ewwong2@dons.usfca.edu    
